@@ -5,23 +5,24 @@
 
 ## ✨Funcionalidades:
 
-[x] Cadastro de tarefas
-[x] Listagem de tarefas 
-[x] Marcação de tarefa com cuncluída
-[x] Exclusão de tarefa
-[ ] Edição de tarefa(Em breve)
-[x] Separação entre tarefas pendentes e concluídas 
-[ ] Filtro por prioridade ou categoria(Em breve)
-[x] Campo para data ou prazo
+- [x] Cadastro de tarefas
+- [x] Listagem de tarefas 
+- [x] Marcação de tarefa com cuncluída
+- [x] Exclusão de tarefa
+- [ ] Edição de tarefa(Em breve)
+- [x] Separação entre tarefas pendentes e concluídas 
+- [ ] Filtro por prioridade ou categoria(Em breve)
+- [x] Campo para data ou prazo
 [ ] Área com resumo das tarefas(Em breve)
 
-## Tecnologias utilizadas:
+## 🛠️ Tecnologias
+As seguintes ferramentas e linguagens foram utilizadas na construção deste projeto:
 
-- JavaScript
-- HTML
-- CSS
+- [JavaScript](https://mozilla.org)
+- [Node.js](https://nodejs.org)
+- [React](https://react.dev)
 
-## Como rodar: Em desenvolvimento 
+ ## Como rodar: Em desenvolvimento 
 
 ## 🤝Colaboradores:
 - José Cauã dos Santos Gonçalves
