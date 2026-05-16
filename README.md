@@ -18,9 +18,9 @@
 ## 🛠️ Tecnologias
 As seguintes ferramentas e linguagens foram utilizadas na construção deste projeto:
 
-- [JavaScript](https://mozilla.org)
-- [Node.js](https://nodejs.org)
-- [React](https://react.dev)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![JavaScript](https://shields.io)
 
  ## Como rodar: Em desenvolvimento 
 
