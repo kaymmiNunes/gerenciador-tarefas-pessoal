@@ -1,4 +1,4 @@
-## Up List: Gerenciador de tarefas pessoal
+## Up List - Gerenciador de tarefas pessoal
 >Um projeto simples que visa ajudar na organização pessoal dos usuários.
 
 ## Status: Em desenvolvimento 
