@@ -3,7 +3,7 @@
 
 ## Status: Em desenvolvimento 
 
-## ⚙️Funcionalidades:
+## ⚙️ Funcionalidades:
 
 - [x] Cadastro de tarefas
 - [x] Listagem de tarefas 
@@ -23,7 +23,9 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
 ![JavaScript](https://shields.io)
 
 - HTML: Responsável pela estrutura e conteúdo do site (o esqueleto onde textos, imagens e vídeos são colocados).
+  
 - CSS: Responsável pela estilização e design (a pele/roupa, cuidando das cores, fontes e organização visual).
+  
 - JavaScript: Responsável pela interatividade e dinamismo (o cérebro e os músculos, que fazem o site responder a cliques, animações e regras de negócio).
 
  ## 🚀 Como executar?
@@ -34,10 +36,10 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
 ## Execução 
 - Em análise ⚠️
 
-## 🤝Colaboradores:
+## 🤝 Colaboradores:
 - José Cauã dos Santos Gonçalves
 - Valéria Lima da Silva
 - Lucas Daniel dos Santos Alves 
-- Júlio Ruan
+- Julio Ruan Braga lucena
 - Jamilly Clara dos Santos Rodrigues 
 - Maria Aline Alves da Silva Tome
