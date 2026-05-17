@@ -3,7 +3,7 @@
 
 ## Status: Em desenvolvimento 
 
-## ⚙️ Funcionalidades:
+## ⚙️ Funcionalidades
 
 - [x] Cadastro de tarefas
 - [x] Listagem de tarefas 
@@ -36,7 +36,7 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
 ## Execução 
 - Em análise ⚠️
 
-## 🤝 Colaboradores:
+## 🤝 Colaboradores
 - José Cauã dos Santos Gonçalves
 - Valéria Lima da Silva
 - Lucas Daniel dos Santos Alves 
