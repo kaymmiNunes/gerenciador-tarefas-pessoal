@@ -36,10 +36,67 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
 ## Execução 
 - Em análise ⚠️
 
-## 🤝 Colaboradores
-- José Cauã dos Santos Gonçalves
-- Valéria Lima da Silva
-- Lucas Daniel dos Santos Alves 
-- Julio Ruan Braga lucena
-- Jamilly Clara dos Santos Rodrigues 
-- Maria Aline Alves da Silva Tome
+## 🤝 Colaboradores (Em desenvolvimento)
+
+Agradecemos às seguintes pessoas que contribuíram para este projeto:
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com">
+        <img src="link-da-foto-do-github" width="100px;" <img width="540" height="720" alt="IMG-20260516-WA0067" src="https://github.com/user-attachments/assets/632f3d6f-7dcd-4c0c-ad3b-f9542263a4cc"/>"/><br>
+        <sub><b>Valéria Lima da Silva</b></sub>
+      </a>
+      <br>
+     <sub><b>Função:</b> Desenvolvimento do CSS / Digitação </sub>
+    </td>
+    <td align="center">
+      <a href="link-do-perfil-github">
+        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
+        <sub><b>José Cauã dos Santos Gonçalves</b></sub>
+      </a>
+      <br>
+      <sub><b>Função:</b> Desenvolvimento do JavaScript </sub>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="link-do-perfil-github">
+        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
+        <sub><b> Lucas Daniel dos Santos Alves </b></sub>
+      </a>
+      <br>
+      <sub><b>Função:</b> Desenvolvimento do HTML</sub>
+    </td>
+    <td align="center">
+      <a href="link-do-perfil-github">
+        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
+        <sub><b>Júlio Ruan Braga Lucena</b></sub>
+      </a>
+      <br>
+      <sub><b>Função:</b> Organização do Github </sub>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center">
+      <a href="link-do-perfil-github">
+        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
+        <sub><b> Jamilly Clara dos Santos Rodrigues </b></sub>
+      </a>
+      <br>
+      <sub><b>Função:</b> Criação de telas/ layout </sub>
+    </td>
+    <td align="center">
+      <a href="link-do-perfil-github">
+        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
+        <sub><b> Maria Aline dos Santos Tomé </b></sub>
+      </a>
+      <br>
+      <sub><b>Função:</b> Organização do Github </sub>
+    </td>
+  </tr>
+</table>
