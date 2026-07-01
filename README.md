@@ -98,5 +98,5 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <br>
       <sub><b>Função:</b> Organização do Github </sub>
     </td>
-  </tr>
+  </tr> 
 </table>
