@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Gerenciador de Tarefas Pessoal</title>
+  <link rel="stylesheet" href="./css/gerencia.css">
+</head>
+<body>
+
+  <header class="cabecalho">
+    <img class="logo-projeto" src="/img/img-cadente.png" alt="logo do projeto"><img>
+   
+   <a class="btn-entrar" href="/login.html">Entrar</a>
+  </header>
+
+  <main>
+    <section class="formulario">
+      <h2>Nova tarefa</h2>
+      <input type="text" id="tarefaInput" placeholder="Digite uma tarefa">
+      <input type="date" id="dataInput">
+
+<label for="prioridade"><strong>Prioridade</strong></label>
+
+<select id="prioridade">
+    <option value="baixa">🟢 Baixa</option>
+    <option value="media">🟡 Média</option>
+    <option value="alta">🔴 Alta</option>
+</select>
+
+      <button
+    id="botaoAdicionar"
+    class="botao-adicionar"
+    onclick="adicionarTarefa()">
+    Adicionar
+</button>
+    </section>
+
+    <section class="lista-tarefas">
+      <h2>Tarefas pendentes</h2>
+      <ul id="listaPendentes"></ul>
+    </section>
+
+    <section class="lista-tarefas">
+      <h2>Tarefas concluídas</h2>
+      <ul id="listaConcluidas"></ul>
+    </section>
+
+  <section class="lista-tarefas">
+    <h2>Resumo</h2>
+
+    <p>Total de tarefas: <strong id="totalTarefas">0</strong></p>
+
+    <p>Pendentes: <strong id="totalPendentes">0</strong></p>
+
+    <p>Concluídas: <strong id="totalConcluidas">0</strong></p>
+</section>
+
+  </main>
+
+  <footer>
+    <p>Projeto gerenciador de tarefas - Grupo 2 - Turma 3º B</p>
+  </footer>
+
+<script src="./js/gerencia.js"></script>
+
+
+
+</body>
+</html>
