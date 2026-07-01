@@ -40,10 +40,15 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
 Siga os passos abaixo para rodar o projeto:
 
 1- Clone o repositório:
--
+
+```bash
+  Git clone https://github.com/kaymmiNunes/gerenciador-tarefas-pessoal.git
+```
 
 2- Acesse a pasta do projeto:
--
+```bash
+- cd gerenciador-tarefas-pessoal
+```
 
 ## 🤝 Colaboradores
 
@@ -53,17 +58,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com"
-        <sub><b>Valéria Lima da Silva</b></sub>
+        <sub><p>Valéria Lima da Silva</p></sub>
       </a>
       <br>
      <sub><b>Função:</b> Desenvolvimento do CSS / Digitação </sub>
     </td>
     <td align="center">
       <a href="link-do-perfil-github">
-        <sub><b>José Cauã dos Santos Gonçalves</b></sub>
+        <sub><p>José Cauã dos Santos Gonçalves</p></sub>
       </a>
       <br>
-      <sub><b>Função:</b> Desenvolvimento do JavaScript </sub>
+     <sub><b>Função:</b> Desenvolvimento do JavaScript </sub>
     </td>
   </tr>
 </table>
