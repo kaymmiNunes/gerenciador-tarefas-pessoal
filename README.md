@@ -1,7 +1,7 @@
 ## Up List - Gerenciador de tarefas pessoal
 >Um projeto simples que visa ajudar na organização pessoal dos usuários.
 
-## Status: Em desenvolvimento 
+## Status: Concluído
 
 ## ⚙️ Funcionalidades
 
@@ -9,11 +9,11 @@
 - [x] Listagem de tarefas 
 - [x] Marcação de tarefa com cuncluída
 - [x] Exclusão de tarefa
-- [ ] Edição de tarefa(Em breve)
+- [x] Edição de tarefas
 - [x] Separação entre tarefas pendentes e concluídas 
-- [ ] Filtro por prioridade ou categoria(Em breve)
+- [x] Filtro por prioridade ou categoria
 - [x] Campo para data ou prazo
-- [ ] Área com resumo das tarefas(Em breve)
+- [x] Área com resumo das tarefas
 
 ## 🛠️ Tecnologias utilizadas 
 As seguintes ferramentas e linguagens foram utilizadas na construção deste projeto:
@@ -31,20 +31,28 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
  ## 🚀 Como executar?
  
  ## Pré-requisitos
- - Em análise ⚠️
+ Antes de começar, certifique-se de ter instalado em sua máquina:
+ 
+ - Node.js: Versão 18 ou superior.
+ - Git: Para clonar o repositório
 
 ## Execução 
-- Em análise ⚠️
+Siga os passos abaixo para rodar o projeto:
 
-## 🤝 Colaboradores (Em desenvolvimento)
+1- Clone o repositório:
+-
+
+2- Acesse a pasta do projeto:
+-
+
+## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com">
-        <img src="link-da-foto-do-github" width="100px;" <img width="540" height="720" alt="IMG-20260516-WA0067" src="https://github.com/user-attachments/assets/632f3d6f-7dcd-4c0c-ad3b-f9542263a4cc"/>"/><br>
+      <a href="https://github.com"
         <sub><b>Valéria Lima da Silva</b></sub>
       </a>
       <br>
@@ -52,7 +60,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="link-do-perfil-github">
-        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
         <sub><b>José Cauã dos Santos Gonçalves</b></sub>
       </a>
       <br>
@@ -64,7 +71,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="link-do-perfil-github">
-        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
         <sub><b> Lucas Daniel dos Santos Alves </b></sub>
       </a>
       <br>
@@ -72,7 +78,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="link-do-perfil-github">
-        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
         <sub><b>Júlio Ruan Braga Lucena</b></sub>
       </a>
       <br>
@@ -84,7 +89,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="link-do-perfil-github">
-        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
         <sub><b> Jamilly Clara dos Santos Rodrigues </b></sub>
       </a>
       <br>
@@ -92,7 +96,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="link-do-perfil-github">
-        <img src="link-da-foto-do-github" width="100px;" alt="Foto do Colaborador"/><br>
         <sub><b> Maria Aline dos Santos Tomé </b></sub>
       </a>
       <br>
