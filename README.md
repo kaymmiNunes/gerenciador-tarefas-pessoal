@@ -7,7 +7,7 @@
 
 - [x] Cadastro de tarefas
 - [x] Listagem de tarefas 
-- [x] Marcação de tarefa com cuncluída
+- [x] Marcação de tarefa com concluída
 - [x] Exclusão de tarefa
 - [x] Edição de tarefas
 - [x] Separação entre tarefas pendentes e concluídas 
