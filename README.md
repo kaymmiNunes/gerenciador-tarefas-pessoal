@@ -57,43 +57,9 @@ Siga os passos abaixo para rodar o projeto:
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com"
-        <sub><p>Valéria Lima da Silva</p></sub>
-      </a>
-      <br>
-     <sub><b>Função:</b> Desenvolvimento do CSS / Digitação </sub>
-    </td>
-  </table>
-  <table>
-    <td align="center">
-      <a href="https://github.com/JotaCauan">
-        <sub><p>José Cauã dos Santos Gonçalves</p></sub>
-      </a>
-      <br>
-     <sub><b>Função:</b> Desenvolvimento do JavaScript </sub>
-    </td>
-  </tr>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/lucasalvesdaniel11-art">
-        <sub><b> Lucas Daniel dos Santos Alves </b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Desenvolvimento do HTML</sub>
-    </td>
-
-    </table>
-<table>
-    <td align="center">
-      <a href="">https://github.com/ruanlucena
-        <sub><b>Júlio Ruan Braga Lucena</b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Organização do Github </sub>
-    </td>
-</table>
+| Nome | Função |
+|------|--------|
+| [Valéria Lima da Silva](https://github.com) | Desenvolvimento do CSS / Digitação |
+| [José Cauã dos Santos Gonçalves](https://github.com/JotaCauan) | Desenvolvimento do JavaScript |
+| [Lucas Daniel dos Santos Alves](https://github.com/lucasalvesdaniel11-art) | Desenvolvimento do HTML |
+| [Júlio Ruan Braga Lucena](https://github.com/ruanlucena) | Organização do GitHub |
