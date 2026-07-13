@@ -1,7 +1,7 @@
 ## Up List - Gerenciador de tarefas pessoal
 >Um projeto simples que visa ajudar na organização pessoal dos usuários.
 
-## Status: Concluído
+## Status: Em desenvolvimento
 
 ## ⚙️ Funcionalidades
 
@@ -66,7 +66,8 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <br>
      <sub><b>Função:</b> Desenvolvimento do CSS / Digitação </sub>
     </td>
-    <table>
+  </table>
+  <table>
     <td align="center">
       <a href="https://github.com/JotaCauan">
         <sub><p>José Cauã dos Santos Gonçalves</p></sub>
@@ -75,7 +76,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
      <sub><b>Função:</b> Desenvolvimento do JavaScript </sub>
     </td>
   </tr>
-</table>
+
 <table>
   <tr>
     <td align="center">
@@ -87,7 +88,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
 
     </table>
-
+<table>
     <td align="center">
       <a href="link-do-perfil-github">
         <sub><b>Júlio Ruan Braga Lucena</b></sub>
