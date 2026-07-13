@@ -80,7 +80,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="link-do-perfil-github">
+      <a href="https://github.com/lucasalvesdaniel11-art">
         <sub><b> Lucas Daniel dos Santos Alves </b></sub>
       </a>
       <br>
@@ -90,7 +90,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </table>
 <table>
     <td align="center">
-      <a href="link-do-perfil-github">
+      <a href="">https://github.com/ruanlucena
         <sub><b>Júlio Ruan Braga Lucena</b></sub>
       </a>
       <br>
