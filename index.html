@@ -9,18 +9,22 @@
 <body>
 
   <header class="cabecalho">
-    <img class="logo-projeto" src="/img/img-cadente.png" alt="logo do projeto"><img>
-   
-   <a class="btn-entrar" href="/login.html">Entrar</a>
+    <img src="./img/img-cadente.png" alt="Logo" class="logo">
+   <a href="#" id="botaoSair" class="btn-entrar">Sair</a>
   </header>
 
   <main>
     <section class="formulario">
       <h2>Nova tarefa</h2>
       <input type="text" id="tarefaInput" placeholder="Digite uma tarefa">
-      <input type="date" id="dataInput">
+   <input
+  type="date"
+  id="dataInput"
+  max="2099-12-31"
+  required
+>
 
-<label for="prioridade"><strong>Prioridade</strong></label>
+
 
 <select id="prioridade">
     <option value="baixa">🟢 Baixa</option>
@@ -62,7 +66,7 @@
     <p>Projeto gerenciador de tarefas - Grupo 2 - Turma 3º B</p>
   </footer>
 
-<script src="./js/gerencia.js"></script>
+<script type="module" src="./js/gerencia.js"></script>
 
 
 

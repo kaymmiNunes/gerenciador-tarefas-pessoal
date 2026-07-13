@@ -1,0 +1,144 @@
+    *{
+      margin:0;
+      padding:0;
+      box-sizing:border-box;
+      font-family:Arial, sans-serif;
+    }
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pagina-acesso {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    background: #ff7b00;
+}
+
+.container-acesso {
+    width: 100%;
+    max-width: 390px;
+    padding: 35px;
+    background: white;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.20);
+}
+
+.logo-acesso {
+    display: block;
+    width: 130px;
+    height: auto;
+    margin: 0 auto 25px;
+}
+
+.container-acesso h1 {
+    margin-bottom: 15px;
+    color: #0b36b5;
+    text-align: center;
+}
+
+.container-acesso p {
+    margin-bottom: 20px;
+    color: #555;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.container-acesso label {
+    display: block;
+    margin-bottom: 7px;
+    color: #0b36b5;
+    font-weight: bold;
+}
+
+.container-acesso input {
+    width: 100%;
+    margin-bottom: 18px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    font-size: 15px;
+    outline: none;
+}
+
+.container-acesso input:focus {
+    border-color: #0b36b5;
+    box-shadow: 0 0 5px rgba(11, 54, 181, 0.35);
+}
+
+.container-acesso button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: #0b36b5;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.container-acesso button:hover {
+    background: #ff7b00;
+    transform: scale(1.02);
+}
+
+.container-acesso .voltar-login {
+    margin: 18px 0 0;
+}
+
+.voltar-login a {
+    color: #0b36b5;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.voltar-login a:hover {
+    color: #ff7b00;
+    text-decoration: underline;
+}
+.input-box {
+    margin-bottom: 18px;
+}
+
+.input-box input {
+    margin-bottom: 0;
+}
+
+.forgot {
+    margin: -5px 0 20px !important;
+    text-align: right !important;
+}
+
+.forgot a,
+.register a {
+    color: #0b36b5;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.forgot a:hover,
+.register a:hover {
+    color: #ff7b00;
+    text-decoration: underline;
+}
+
+.register {
+    margin: 20px 0 0 !important;
+    text-align: center !important;
+}
+.container-acesso .botao-visitante {
+    margin-top: 12px;
+    background: #ff7b00;
+}
+
+.container-acesso .botao-visitante:hover {
+    background: #0b36b5;
+}
