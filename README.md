@@ -66,8 +66,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <br>
      <sub><b>Função:</b> Desenvolvimento do CSS / Digitação </sub>
     </td>
+    <table>
     <td align="center">
-      <a href="link-do-perfil-github">
+      <a href="https://github.com/JotaCauan">
         <sub><p>José Cauã dos Santos Gonçalves</p></sub>
       </a>
       <br>
@@ -84,6 +85,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <br>
       <sub><b>Função:</b> Desenvolvimento do HTML</sub>
     </td>
+
+    </table>
+
     <td align="center">
       <a href="link-do-perfil-github">
         <sub><b>Júlio Ruan Braga Lucena</b></sub>
@@ -91,23 +95,4 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <br>
       <sub><b>Função:</b> Organização do Github </sub>
     </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><b> Jamilly Clara dos Santos Rodrigues </b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Criação de telas/ layout </sub>
-    </td>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><b> Maria Aline dos Santos Tomé </b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Organização do Github </sub>
-    </td>
-  </tr> 
 </table>
