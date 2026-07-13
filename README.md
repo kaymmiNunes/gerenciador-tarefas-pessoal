@@ -1,5 +1,5 @@
 ## Up List - Gerenciador de tarefas pessoal
->Um projeto simples que visa ajudar na organização pessoal dos usuários.
+>O <strong>Up list </strong> é uma plataforma inteligente de produtividade projetada para simplificar a organização diária. Ele permite que os usuários gerenciem suas rotinas, definam prioridades e acompanhem metas, tranformando listas de afazeres em ações concretas para otimizar o tempo e reduzir o estresse. 
 
 ## Status: Concluído
 
@@ -18,15 +18,18 @@
 ## 🛠️ Tecnologias utilizadas 
 As seguintes ferramentas e linguagens foram utilizadas na construção deste projeto:
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-- HTML: Responsável pela estrutura e conteúdo do site (o esqueleto onde textos, imagens e vídeos são colocados).
+- HTML: Responsável pela estrutura e conteúdo do site (o esqueleto onde textos, imagens e vídeos são colocados);
   
-- CSS: Responsável pela estilização e design (a pele/roupa, cuidando das cores, fontes e organização visual).
+- CSS: Responsável pela estilização e design (a pele/roupa, cuidando das cores, fontes e organização visual);
   
-- JavaScript: Responsável pela interatividade e dinamismo (o cérebro e os músculos, que fazem o site responder a cliques, animações e regras de negócio).
+- JavaScript: Responsável pela interatividade e dinamismo (o cérebro e os músculos, que fazem o site responder a cliques, animações e regras de negócio);
+
+- Canva: Responsável pela ideia de organização, criação de telas e slide para apresentação.
 
  ## 🚀 Como executar?
  
@@ -54,57 +57,9 @@ Siga os passos abaixo para rodar o projeto:
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com"
-        <sub><p>Valéria Lima da Silva</p></sub>
-      </a>
-      <br>
-     <sub><b>Função:</b> Desenvolvimento do CSS / Digitação </sub>
-    </td>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><p>José Cauã dos Santos Gonçalves</p></sub>
-      </a>
-      <br>
-     <sub><b>Função:</b> Desenvolvimento do JavaScript </sub>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><b> Lucas Daniel dos Santos Alves </b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Desenvolvimento do HTML</sub>
-    </td>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><b>Júlio Ruan Braga Lucena</b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Organização do Github </sub>
-    </td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><b> Jamilly Clara dos Santos Rodrigues </b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Criação de telas/ layout </sub>
-    </td>
-    <td align="center">
-      <a href="link-do-perfil-github">
-        <sub><b> Maria Aline dos Santos Tomé </b></sub>
-      </a>
-      <br>
-      <sub><b>Função:</b> Organização do Github </sub>
-    </td>
-  </tr> 
-</table>
+| Nome | Função |
+|------|--------|
+| [Valéria Lima da Silva](https://github.com) | Pesquisa / Digitação |
+| [José Cauã dos Santos Gonçalves](https://github.com/JotaCauan) | Desenvolvimento do JavaScript/HTML/CSS |
+| [Lucas Daniel dos Santos Alves](https://github.com/lucasalvesdaniel11-art) | Desenvolvimento do CSS |
+| [Júlio Ruan Braga Lucena](https://github.com/ruanlucena) | Criação de telas |
