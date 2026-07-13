@@ -21,12 +21,15 @@ As seguintes ferramentas e linguagens foram utilizadas na construção deste pro
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
 ![JavaScript](https://shields.io)
+![canva](https://shields.io)
 
-- HTML: Responsável pela estrutura e conteúdo do site (o esqueleto onde textos, imagens e vídeos são colocados).
+- HTML: Responsável pela estrutura e conteúdo do site (o esqueleto onde textos, imagens e vídeos são colocados);
   
-- CSS: Responsável pela estilização e design (a pele/roupa, cuidando das cores, fontes e organização visual).
+- CSS: Responsável pela estilização e design (a pele/roupa, cuidando das cores, fontes e organização visual);
   
-- JavaScript: Responsável pela interatividade e dinamismo (o cérebro e os músculos, que fazem o site responder a cliques, animações e regras de negócio).
+- JavaScript: Responsável pela interatividade e dinamismo (o cérebro e os músculos, que fazem o site responder a cliques, animações e regras de negócio);
+
+- Canva: Responsável pela ideia de organização, criação de telas e slide para apresentação.
 
  ## 🚀 Como executar?
  
